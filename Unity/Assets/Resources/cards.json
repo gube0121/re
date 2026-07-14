@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"id":1,"name":"내부고발자","cost":2,"attack":1,"defense":2,"type":"시민","tags":["정보"],"risk":1,"desc":"상대 덱 상단 공개"},
+    {"id":2,"name":"언론인","cost":3,"attack":2,"defense":1,"type":"미디어","tags":["무효화"],"risk":1,"desc":"적 카드 1장 능력 무효화(1턴)"},
+    {"id":3,"name":"브로커","cost":4,"attack":3,"defense":2,"type":"범죄","tags":["뇌물"],"risk":2,"desc":"뇌물 사용 시 보너스"},
+    {"id":4,"name":"증거사진","cost":1,"attack":0,"defense":0,"type":"장비","tags":["증거"],"risk":0,"desc":"적 카드 능력 영구 약화"}
+  ]
+}
